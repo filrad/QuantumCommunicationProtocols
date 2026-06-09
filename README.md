@@ -2,7 +2,9 @@
 Python and C implementations of the algorithms introduced in the paper 
 
 F. Radicchi
+<br>
 <a href="http://arxiv.org/abs/2606.08326"  target="_blank">Enabling quantum communication in ultra-large-scale networks</a>
+<br>
 arXiv:2606.08326 (2026)
 
 The Python implementation can be found in the folder "Library," whereas the C implementation is in the folder "Code."
